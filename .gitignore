@@ -1,0 +1,11 @@
+node_modules/
+.build/
+.swiftpm/
+DerivedData/
+*.xcodeproj/
+.DS_Store
+.vscode/
+.zed/
+.cursor/
+.claude/
+.codex/
